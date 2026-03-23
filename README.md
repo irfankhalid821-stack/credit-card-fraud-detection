@@ -1,11 +1,17 @@
 # credit-card-fraud-detection
 Credit card fraud detection using supervised machine learning algorithms with performance evaluation using F1-score, ROC-AUC, and confusion matrix.
+
+
 OVERVIEW
+
+
 This project foucus on detecting fradulent credit card detection transctions using supervised machine learning algorithms. It address real world challenges such as highly imbalance data, false-positives and model optimization.
 Build as a part of Data Science project, this solution demonstrates end-to-end implementation from data prepration, data training, evaluation and deployment readiness.
 
 
 BUSINESS PROBLEM
+
+
 Credit card fraud is a major issue in the financial sector, causing billions in losses globally. 
 The key challenges include imbalance dataset(very few farud cases), high cost of false nagatives (missed fraud) and need real time detection. This project aims to build  a robust fraud detection model that minimize risk while maintaining high accuracy.
 
