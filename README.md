@@ -93,9 +93,13 @@ Relevance to Saudi Arabia
 
 
 This system can support fraud detection in banking and fintech sectors in Saudi Arabia, including:
+
 • Al Rajhi Bank
+
 • Saudi National Bank (SNB)
+
 • STC Pay
+
 • Fintech companies operating under SAMA
 regulations
 
