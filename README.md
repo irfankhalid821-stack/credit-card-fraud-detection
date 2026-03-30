@@ -111,3 +111,12 @@ This highlights the applicability of machine learning solutions in enhancing fin
 
 ▶️ How to Run
 pip install -r requirements.txt jupyter notebook
+
+
+## 📱 Download WebApp
+
+[Download WebApp]
+(https://ml-creditcard-fraud-detector.netlify.app/)
+
+
+
