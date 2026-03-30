@@ -89,7 +89,17 @@ Can be adapted for real-time fraud detection systems
 /data /notebooks /src preprocessing.py models.py evaluation.py 
 
 
+Relevance to Saudi Arabia
 
+
+This system can support fraud detection in banking and fintech sectors in Saudi Arabia, including:
+• Al Rajhi Bank
+• Saudi National Bank (SNB)
+• STC Pay
+• Fintech companies operating under SAMA
+regulations
+
+This highlights the applicability of machine learning solutions in enhancing financial security within the Saudi market.
 
 ▶️ How to Run
 pip install -r requirements.txt jupyter notebook
