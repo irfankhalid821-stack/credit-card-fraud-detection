@@ -54,7 +54,7 @@ Models were evaluated using:
 
 🔍 Key Insights
 
-1.Class imbalance is the biggest challenge in fraud detection
+1. Class imbalance is the biggest challenge in fraud detection
 
 2. Ensemble models outperform single models
 
