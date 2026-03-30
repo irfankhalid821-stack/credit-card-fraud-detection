@@ -119,10 +119,28 @@ pip install -r requirements.txt jupyter notebook
 (https://ml-creditcard-fraud-detector.netlify.app/)
 
 
-## 👤 Author
+---
+
+👨‍💻 Author
+
 Irfan Khalid
+Data Scientist | Machine Learning Enthusiast
 
-- LinkedIn: https://www.linkedin.com/in/irfan-khalid-muhamad-khalid-8b0679130
-- GitHub: https://github.com/irfankhalid821-stack
+📧 irfan.khalid821@gmail.com
 
+🔗 LinkedIn: https://www.linkedin.com/in/irfan-khalid-muhamad-khalid-8b0679130
+
+💻 GitHub: https://github.com/irfankhalid821-stack
+
+⭐ Support
+If you find this project useful:
+
+
+Give it a ⭐ on GitHub
+
+
+Share it with others
+
+
+Contribute to improvements
 
