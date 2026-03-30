@@ -67,16 +67,25 @@ Data Visualization
 
 
 🖥️ Tech Stack
-Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
+
+1. Python
+2. Pandas 
+3. NumPy 
+4. Scikit-learn
+5. Matplotlib
+6. Seaborn
 
 
 💡 Business Value
+
 Helps financial institutions detect fraudulent transactions early
 Reduces financial loss and improves customer trust
 Can be adapted for real-time fraud detection systems
 
 
 📂 Project Structure
+
+
 /data /notebooks /src preprocessing.py models.py evaluation.py 
 
 
