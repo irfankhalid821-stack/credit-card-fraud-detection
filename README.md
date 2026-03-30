@@ -31,10 +31,8 @@ SMOTE
 Random Over/Under Sampling
 
 Models implemented:
-Logistic Regression
-Decision Tree
-Random Forest
-Hyperparameter tuning using GridSearchCV
+
+Using Logistic Regression, Decision Tree, Random Forest and Hyperparameter tuning using GridSearchCV
 
 
 📈 Model Evaluation
