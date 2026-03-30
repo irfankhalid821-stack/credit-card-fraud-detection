@@ -2,10 +2,12 @@
 
 
 🚀 Business Problem
+
 Credit card fraud is a growing global issue, causing billions in financial losses. Detecting fraudulent transactions is challenging due to highly imbalanced data and evolving fraud patterns.
 
 
 🎯 Objective
+
 To build and evaluate machine learning models for accurate fraud detection using real-world transaction data.
 
 
@@ -78,18 +80,7 @@ Can be adapted for real-time fraud detection systems
 /data /notebooks /src preprocessing.py models.py evaluation.py 
 
 
-Relevance to Saudi Arabia
-
-This system can support fraud detection in banking and fintech sectors in Saudi Arabia, including:
-
-- Al Rajhi Bank  
-- Saudi National Bank (SNB)  
-- STC Pay  
-- Fintech companies operating under SAMA regulations  
-
-This highlights the applicability of machine learning solutions in enhancing financial security within the Saudi market.  
 
 
-This highlights the applicability of machine learning solutions in enhancing financial security within the Saudi market.
 ▶️ How to Run
 pip install -r requirements.txt jupyter notebook
