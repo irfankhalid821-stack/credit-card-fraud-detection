@@ -32,7 +32,7 @@ Random Over/Under Sampling
 
 Models implemented:
 
-Using Logistic Regression, Decision Tree, Random Forest and Hyperparameter tuning using GridSearchCV
+Using Logistic Regression, Decision Tree, Random Forest, and Hyperparameter tuning using GridSearchCV
 
 
 📈 Model Evaluation
