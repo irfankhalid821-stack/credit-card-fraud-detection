@@ -78,9 +78,9 @@ Data Visualization
 
 💡 Business Value
 
-Helps financial institutions detect fraudulent transactions early
-Reduces financial loss and improves customer trust
-Can be adapted for real-time fraud detection systems
+1. Helps financial institutions detect fraudulent transactions early
+2. Reduces financial loss and improves customer trust
+3. Can be adapted for real-time fraud detection systems
 
 
 📂 Project Structure
