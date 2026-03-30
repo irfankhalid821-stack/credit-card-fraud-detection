@@ -36,32 +36,36 @@ Using Logistic Regression, Decision Tree, Random Forest and Hyperparameter tunin
 
 
 📈 Model Evaluation
+
 Models were evaluated using:
-Accuracy
-Precision
-Recall
-F1-Score
-ROC-AUC
+* Accuracy
+* Precision
+* Recall
+* F1-Score
+* ROC-AUC
 
 
 🏆 Key Results
-Random Forest achieved the best overall performance
-SMOTE significantly improved fraud detection recall
-Trade-off observed between precision and recall
+
+1. Random Forest achieved the best overall performance
+2. SMOTE significantly improved fraud detection recall
+3. Trade-off observed between precision and recall
 
 
 🔍 Key Insights
-Class imbalance is the biggest challenge in fraud detection
-Ensemble models outperform single models
-Proper preprocessing significantly improves results
+
+1.Class imbalance is the biggest challenge in fraud detection
+2. Ensemble models outperform single models
+3. Proper preprocessing significantly improves results
 
 
 🧠 Skills Demonstrated
-Machine Learning (Scikit-learn)
-Data Preprocessing & Feature Engineering
-Imbalanced Data Handling
-Model Evaluation & Optimization
-Data Visualization
+
+* Machine Learning (Scikit-learn)
+* Data Preprocessing & Feature Engineering
+* Imbalanced Data Handling
+* Model Evaluation & Optimization
+* Data Visualization
 
 
 🖥️ Tech Stack
